@@ -1,0 +1,9 @@
+<ImageAsset
+    AssetName="Image_Explosion"
+    ImageFile="Explosion.png"
+    CellCountX="8"
+    CellCountY="4"
+    CellWidth="32"
+    CellHeight="32"
+    Optimal_Resolution="800 480"/>
+

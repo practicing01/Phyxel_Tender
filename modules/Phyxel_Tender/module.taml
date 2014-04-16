@@ -1,0 +1,12 @@
+<ModuleDefinition
+	ModuleId="Phyxel_Tender"
+	VersionId="1"
+	Description="Phyxel_Tender Game"
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+		<DeclaredAssets
+			Path="assets"
+			Extension="asset.taml"
+			Recurse="true"/>
+</ModuleDefinition>

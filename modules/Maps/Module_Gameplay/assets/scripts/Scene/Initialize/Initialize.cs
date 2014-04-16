@@ -1,0 +1,10 @@
+exec("./Score_Initialize.cs");
+exec("./Phyxels_Initialize.cs");
+exec("./Background_Initialize.cs");
+exec("./Fog_Initialize.cs");
+exec("./Input_Initialize.cs");
+exec("./Shrubbery_Initialize.cs");
+exec("./Carcass_Initialize.cs");
+exec("./Leaf_Initialize.cs");
+exec("./AI_Initialize.cs");
+exec("./Walls_Initialize.cs");

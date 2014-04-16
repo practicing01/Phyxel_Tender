@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Flame"
+    Image="@asset=Module_Gameplay:Image_Flame"
+    AnimationFrames="0 1 2 3 4 5"
+    AnimationCycle="true"
+	AnimationTime="1.0" />
+
